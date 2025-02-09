@@ -1,24 +1,20 @@
 # Tire Company Demand Analysis Dashboard
 
-This repository showcases a Power BI dashboard developed for a leading tire company to analyze and monitor product demand across its warehouse network in the United States. The dashboard provides valuable insights into quarterly demand trends, year-over-year (YoY) performance, and demand distribution by product, segment, and location.
+This dashboard was developed for a leading global tire company to analyze and monitor product demand across its warehouse network in the United States. As a major player in the tire industry, the company relies on robust data visualization tools like this to ensure its warehouses operate efficiently, maintain optimal inventory levels, and adapt to changing market demands.
 
-> **Disclaimer:** The data used in this dashboard has been simulated and does not reflect real figures or actual company information. It is intended solely for illustrative purposes.
+The dashboard provides a comprehensive view of key metrics, including total demand by quarter, year-over-year (YoY) percentage changes, and performance breakdowns by product, segment, and location. These insights allow the company to identify patterns and trends, ensuring a more strategic approach to inventory management and resource allocation. The geographic visualization offers an additional layer of analysis by highlighting demand concentrations across different locations, enabling operational optimization and targeted strategies to address regional variances.
+
+By tracking the top-performing products and analyzing declining demand segments, the company can fine-tune its marketing, production, and distribution efforts. The ability to correlate demand data with warehouse performance ensures that resources are allocated effectively, helping the company maintain its competitive edge in a dynamic market.
+
+This dashboard is a valuable tool for aligning the company’s operations with its business goals, ensuring it continues to meet customer expectations while optimizing efficiency across its supply chain.
+
+> **Disclaimer:** The data used in this dashboard has been simulated and does not represent actual figures or real company information. It is intended solely for illustrative purposes.
 
 ## Features
-- **Quarterly Demand Analysis**: Tracks demand trends and percentage changes across quarters.
-- **Product Performance**: Highlights the most demanded products and those with declining demand.
-- **Geographic Demand Visualization**: Shows demand concentrations across warehouse locations in the U.S.
-- **Segment Analysis**: Year-over-year performance by product segments.
-- **Interactive Filters**: Enables users to analyze demand by product code, category, segment, or location.
+- Quarterly demand analysis by product and warehouse.
+- Geographic visualization to identify demand concentrations.
+- Year-over-year performance by product segment.
+- Interactive filters for product, category, and location.
 
-## Tools and Technologies
-- **Power BI**: For dashboard design and visualization.
-- **Simulated Data**: Used to protect confidentiality while illustrating functionality.
 
-## Preview
-![Dashboard Preview](path/to/dashboard-image.jpg)
 
-## How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/tire-demand-dashboard.git
