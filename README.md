@@ -1,5 +1,7 @@
 # Tire Company Demand Analysis Dashboard
 
+![Dashboard Preview](tire-demand-dashboard.jpg)
+
 This dashboard was developed for a leading global tire company to analyze and monitor product demand across its warehouse network in the United States. As a major player in the tire industry, the company relies on robust data visualization tools like this to ensure its warehouses operate efficiently, maintain optimal inventory levels, and adapt to changing market demands.
 
 The dashboard provides a comprehensive view of key metrics, including total demand by quarter, year-over-year (YoY) percentage changes, and performance breakdowns by product, segment, and location. These insights allow the company to identify patterns and trends, ensuring a more strategic approach to inventory management and resource allocation. The geographic visualization offers an additional layer of analysis by highlighting demand concentrations across different locations, enabling operational optimization and targeted strategies to address regional variances.
@@ -15,6 +17,3 @@ This dashboard is a valuable tool for aligning the company’s operations with i
 - Geographic visualization to identify demand concentrations.
 - Year-over-year performance by product segment.
 - Interactive filters for product, category, and location.
-
-
-
