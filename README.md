@@ -10,7 +10,7 @@ By tracking the top-performing products and analyzing declining demand segments,
 
 This dashboard is a valuable tool for aligning the company’s operations with its business goals, ensuring it continues to meet customer expectations while optimizing efficiency across its supply chain.
 
-> **Disclaimer:** The data used in this dashboard has been simulated and does not represent actual figures or real company information. It is intended solely for illustrative purposes.
+> **Disclaimer:** The data used in this dashboard has been simulated and does not represent actual figures or real company information.
 
 ## Features
 - Quarterly demand analysis by product and warehouse.
